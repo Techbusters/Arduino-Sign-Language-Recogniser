@@ -17,7 +17,8 @@ The second part is the heart of the project. It uses Keras backend for predictin
 
 File structures:
 
-The actual trained model is available in MyModelDatabase1
-
+The actual trained model is available in MyModelDataset1
 
 The video capturing code is in Modelpredict.py
+
+The arduino code is inside MotionSensorpredictor.ino
