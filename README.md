@@ -21,4 +21,4 @@ The actual trained model is available in MyModelDataset1
 
 The video capturing code is in Modelpredict.py
 
-The arduino code is inside MotionSensorpredictor.ino
+The arduino code is inside MotionSensorCamera.ino
