@@ -20,4 +20,4 @@ The trained model is available in myModeldataset1
 
 The Arduino code is available in MotionSensorCamera.ino
 
-The executable file is Modelpredict.py
+The executable file is Model_predictor.py
