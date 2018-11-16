@@ -1,11 +1,10 @@
 # Arduino-Sign-Language-Recogniser
 
-A Convolution Neural Network model for translating American sign language using Arduino Uno
+An apparatus for translating American Sign Language (ASL) using Machine Learning and Arduino Uno
 
 Purpose:
 
-
-This project is objected to reduce the communication gap between normal persons and so called deaf and dumb persons. The main communication method for the later persons is the standard sign language. The interpretation of their language requires years of training and experience and is often ambiguous to normal persons. In this context, our project comes into picture.
+This apparatus is designed for bridging the communication gap between the deaf & dumb people and others of the society. The primary language for communication is the American Sign Language (ASL). Generally, people who are not an expert in this language require an additional human translator to communicate with the deaf & dumb people. Our project aims at creating a model which uses Convolutional Neural Networks in Machine Learning to translate ASL into any other language with the support of Arduino Uno.
 
 Structure:
 
@@ -17,8 +16,8 @@ The second part is the heart of the project. It uses Keras backend for predictin
 
 File structures:
 
-The actual trained model is available in MyModelDataset1
+The trained model is available in MyModelDataset1
 
-The video capturing code is in Modelpredict.py
+The Arduino code is available in MotionSensorCamera.ino
 
-The arduino code is inside MotionSensorCamera.ino
+The executable file is Modelpredict.py
