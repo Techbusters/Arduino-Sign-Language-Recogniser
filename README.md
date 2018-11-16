@@ -16,7 +16,7 @@ The second part is the heart of the project. It uses Keras backend for predictin
 
 File structures:
 
-The trained model is available in MyModelDataset1
+The trained model is available in myModeldataset1
 
 The Arduino code is available in MotionSensorCamera.ino
 
