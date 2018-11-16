@@ -1,6 +1,6 @@
 # Arduino Sign Language Recogniser
 
-An apparatus for translating American Sign Language (ASL) using Machine Learning and Arduino Uno
+An apparatus for translating American Sign Language (ASL) using Machine Learning and Arduino Uno.
 
 PURPOSE :
 
