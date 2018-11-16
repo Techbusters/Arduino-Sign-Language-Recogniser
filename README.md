@@ -3,6 +3,7 @@
 An apparatus for translating American Sign Language (ASL) using Machine Learning and Arduino Uno
 
 PURPOSE:
+
 This apparatus is designed for bridging the communication gap between the deaf & dumb people and others of the society. The primary language for communication is the American Sign Language (ASL). Generally, people who are not an expert in this language require an additional human translator to communicate with the deaf & dumb people. Our project aims at creating a model which uses Convolutional Neural Networks in Machine Learning to translate ASL into any other language with the support of Arduino Uno.
 
 STRUCTURE:
